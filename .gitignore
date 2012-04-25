@@ -16,3 +16,8 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+.DS_Store
+*.swp
+*~.nib
+*.uml~
