@@ -3,7 +3,7 @@
 if [ ! $# == 1 ]; then
   echo "U should provide user name."
   echo "eg. \n"
-  echo "sh git-user-activity Marek"
+  echo "sh git-user-activity.sh Marek"
   exit
 fi
 
